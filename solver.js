@@ -10,3 +10,5 @@ var createHelloWorld = function() {
 
 const f = createHelloWorld();
 console.log(f());
+
+document.getElementById("title").innerHTML = "Hello LeetCode";
